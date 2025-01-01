@@ -28,6 +28,13 @@ RegisterNumber:24901168
 
 ## Output:
 
+![Screenshot 2025-01-01 172114](https://github.com/user-attachments/assets/d36e8690-bd5f-4d60-aace-9a03412d76dd)
+
+
+![Screenshot 2025-01-01 172128](https://github.com/user-attachments/assets/906098f9-4d2a-47cf-bc0a-c0eb3d741f2d)
+
+![Screenshot 2025-01-01 172143](https://github.com/user-attachments/assets/44181696-7a54-45a3-ae57-03b673c71b29)
+
 
 
 ## Result:
