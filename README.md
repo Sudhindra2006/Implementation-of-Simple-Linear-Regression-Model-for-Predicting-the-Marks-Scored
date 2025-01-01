@@ -27,7 +27,6 @@ RegisterNumber:24901168
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 [Screenshot 2024-10-24 094532.pdf](https://github.com/user-attachments/files/17551019/Screenshot.2024-10-24.094532.pdf)
 
 
