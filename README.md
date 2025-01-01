@@ -28,7 +28,6 @@ RegisterNumber:24901168
 
 ## Output:
 
-[Screenshot.2024-10-24.094532 (1).pdf](https://github.com/user-attachments/files/18285323/Screenshot.2024-10-24.094532.1.pdf)
 
 
 ## Result:
